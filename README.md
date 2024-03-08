@@ -1,4 +1,12 @@
-### Hi there 👋
+
+<h3 align="center">Hi there, I'm developer and focus on Go&Rust&Solidity 🌲  </h3>
+
+🔫 Here are some fun facts about me:
+
+- 🔭 I’m currently working on blockchain backend.
+- 🌱 I’m currently learning Rust&Solidity.
+
+**Nice to meet you and best wishes for you, my friends :)**
 
 <!--
 **liangjisheng/liangjisheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
