@@ -8,6 +8,13 @@
 
 **Nice to meet you and best wishes for you, my friends :)**
 
+<h2></h2>
+
+<br />
+
+[![](https://raw.githubusercontent.com/liangjisheng/liangjisheng/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](profile-summary-card-output/tokyonight/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!--
 **liangjisheng/liangjisheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
