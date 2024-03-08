@@ -20,10 +20,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate
+    permissions:
+      contents: write
 
     steps:
       # 第一步，checkout 当前项目
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
       # 第二步，引入目标 action: vn7n24fzkq/github-profile-summary-cards仓库中的 `release` 分支
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
